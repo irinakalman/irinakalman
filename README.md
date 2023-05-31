@@ -6,6 +6,7 @@
 <h3 align="center">A front-end developer graduated from <a href="https://socialhackersacademy.org/" target="blank">SHA</a></h3>
 
 - 🌱 I’m currently learning **React, js fundamentals**
+- 📚 I enjoy exploring tech books in my free time to stay knowledgeable about the latest industry trends. If you have any recommendations, please share!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
