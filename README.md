@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/irinakalman/irinakalman/blob/main/giphy.gif" width="480" height="270"/>
+  <img src="https://github.com/irinakalman/irinakalman/blob/main/giphy.gif" max-width="480" height="auto"/>
  
 </div>
 <h1 align="center">Hi, I'm Irina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h1>
