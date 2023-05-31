@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270"/>
+  <img src="https://github.com/irinakalman/irinakalman/blob/main/giphy.gif" width="480" height="270"/>
  
 </div>
-<h1 align="center">Hi 👋, I'm Irina</h1>
+<h1 align="center">Hi 👋, I'm Irina <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/></h1>
 <h3 align="center">A front-end developer graduated from <a href="https://socialhackersacademy.org/" target="blank">SHA</a></h3>
 
 - 🌱 I’m currently learning **React, js fundamentals**
